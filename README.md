@@ -53,8 +53,9 @@ The first two point to a known LLM weakness with numbers. Passing threshold chec
 ## Repository contents
 
 - `Dashboard.py`: Streamlit dashboard
-- [feature extraction file]: computes the 23 episode features
-- `Visualisation.py`: generate all visualisations 
+- `Feature_Extraction`: computes the 23 episode features
+- `Visualisation.py`: generate all visualisations
+- `Adaptive Visualisation of collaborative learning`: full workshop accepted paper 
 
 The classroom discussion dataset is not included because it is not publicly shareable.
 
@@ -64,4 +65,4 @@ The classroom discussion dataset is not included because it is not publicly shar
 Python · Streamlit · Llama 3.3 70B (Groq API) · pandas · data visualisation
 
 ---
-Kimberly Nweze · [Portfolio](https://kimberlysonweze.github.io) · MSc AI for Sustainable Development, UCL
+Kimberly Nweze · [Portfolio](https://kimberlysonweze.github.io/kimberlynweze.github.io/) · MSc AI for Sustainable Development, UCL
